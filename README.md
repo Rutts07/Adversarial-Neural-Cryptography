@@ -1,2 +1,2 @@
 # Adversarial-Neural-Crytography
-This repo contains the code for the project based on adversarial neural cryptography implemented as part of the course SMAI
+This repository contains the code for the project based on Adversarial Neural Cryptography implemented as part of the course Statistical Methods in Artificial Intelligence offered at IIIT Hyderabad
