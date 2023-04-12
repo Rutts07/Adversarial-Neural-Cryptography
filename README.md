@@ -15,6 +15,7 @@ This repository contains the code for the project based on <a href="https://arxi
 - [ ] Implement alternate architectures
 
 ### Guidlines to contribute to the project : 
+- Clone the repository using ```git clone <link_to_the_repo>```
 - Create a New Branch from the latest commit to push any changes.
     - ```git checkout main``` to change to the main (default) branch.
     - ```git pull origin main``` to pull the latest changes.
