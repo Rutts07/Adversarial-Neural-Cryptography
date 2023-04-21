@@ -10,7 +10,7 @@ This repository contains the code for the project based on <a href="https://arxi
 ### Project checkpoints :
 - [x] Code to randomly generate plain text and secret key
 - [x] Define the model architectures for Alice, Bob and Eve
-- [ ] Code to train the above models
+- [x] Code to train the above models
 - [ ] Tabulate the results, findings and learnings
 - [ ] Implement alternate architectures
 
