@@ -11,8 +11,8 @@ This repository contains the code for the project based on <a href="https://arxi
 - [x] Code to randomly generate plain text and secret key
 - [x] Define the model architectures for Alice, Bob and Eve
 - [x] Code to train the above models
-- [ ] Tabulate the results, findings and learnings
-- [ ] Implement alternate architectures
+- [x] Tabulate the results, findings and learnings
+- [x] Implement alternate architectures
 
 ### Guidlines to contribute to the project : 
 - Clone the repository using ```git clone <link_to_the_repo>```
