@@ -14,7 +14,7 @@ This folder the code for the project based on <a href="https://arxiv.org/pdf/161
 - [x] Tabulate the results, findings and learnings
 - [x] Implement alternate architectures (GRU)
 
-### Intructions to train the models :
+### Instructions to train the models :
 - Run the ```baseline.ipynb``` file inside ```/Train``` to train the CNN baseline model from scratch. Code takes around 8 minutes to run on a GPU.
 - Run the ```gru_variant.ipynb``` file inside ```/Train``` to train the GRU version of baseline model from scratch. Code takes around 9 minutes to run on a GPU.
 
