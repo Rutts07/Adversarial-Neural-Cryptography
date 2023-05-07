@@ -14,6 +14,12 @@ This folder the code for the project based on <a href="https://arxiv.org/pdf/161
 - [x] Tabulate the results, findings and learnings
 - [x] Implement alternate architectures (GRU)
 
+### Framework :
+- OS: ```WSL2 Ubuntu 20.04```
+- ```Python``` version: 3.8.13
+- ```Pytorch``` version: 1.12.1
+- GPU used: ```NVIDIA GeForce RTX 2070 Super with Max-Q Design```
+
 ### Instructions to train the models :
 - Run the ```baseline.ipynb``` file inside ```/Train``` to train the CNN baseline model from scratch. Code takes around 8 minutes to run on a GPU.
 - Run the ```gru_variant.ipynb``` file inside ```/Train``` to train the GRU version of baseline model from scratch. Code takes around 9 minutes to run on a GPU.
