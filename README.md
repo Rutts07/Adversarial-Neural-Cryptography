@@ -1,6 +1,6 @@
 # Adversarial-Neural-Crytography
 
-This folder the code for the project based on <a href="https://arxiv.org/pdf/1610.06918.pdf">Adversarial Neural Cryptography</a> implemented in PyTorch framework as part of the course Statistical Methods in Artificial Intelligence offered at IIIT Hyderabad.
+This folder the code for the project based on <a href="https://arxiv.org/pdf/1610.06918.pdf">Adversarial Neural Cryptography</a> implemented in PyTorch framework as part of the course Statistical Methods in Artificial Intelligence offered at IIIT Hyderabad (Spring 2023)
 
 ### Team Members :
 - Rahothvarman Prithiviraj (2020114008)
